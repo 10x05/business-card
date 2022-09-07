@@ -1,0 +1,18 @@
+.business-img{
+ width: 150px;
+ height: 150px;
+}
+.card{
+ display: flex;
+ width: 400px;
+ margin: 30px auto;
+ padding: 20px;
+ justify-content: space-around;
+ text-align: center;
+ background-color: #ddebf8;
+ border-bottom: 6px solid #d8cefe;
+ color: #2b2839;
+}
+body{
+ background-color: blanchedalmond;
+ font-family: 'Times New Roman', Times, serif;
