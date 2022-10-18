@@ -4,7 +4,7 @@
 }
 .card{
  display: flex;
- width: 400px;
+ width: 350px;
  margin: 30px auto;
  padding: 20px;
  justify-content: space-around;
